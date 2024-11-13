@@ -1,6 +1,8 @@
 NAAN MUDHALVAN (SMART INTERNZ) PROJECT: (Book A Doctor Using MERN )
  PROJECT GitHub link: https://github.com/Sam62002/Book-A-Doctor-Using-Mern.git
 
+[Book_a_Doctor_Documentation.docx](https://github.com/user-attachments/files/17727003/Book_a_Doctor_Documentation.docx)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
